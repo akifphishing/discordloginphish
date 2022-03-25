@@ -15,5 +15,5 @@ Interests  -  Make Money, Development, Finance
 Termninal  -  Hyper
 Languages  -  JS, Python, C#
     Alias  -  Kimbo
-  Discord  -  Akif#0001 | 778977126346391562
+  Discord  -  Akif#0001 | 364332423565017088
 ```
